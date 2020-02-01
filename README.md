@@ -1,4 +1,4 @@
-# Class-Activity_Project-1
+# Project-1
 
 Redundant link to github
 https://github.com/carpetmat/Class-Activity_Project-1/blob/master/README.md
