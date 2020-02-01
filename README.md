@@ -25,3 +25,4 @@ d. Compare the ssp profile in summer and winter of all profilers, explain what y
 e. Compare the average ssp profiles of all profilers recorded at the same day in winter and summer.
 "
 
+I was able to complete M2M and basic grapghing. But unable to complete the rest.
