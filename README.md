@@ -18,7 +18,7 @@ The purpose of this project was to gather data from the OOI website for the foll
 <br>
 As well as answer the following questions:<br>
 "<br>
-For each profiler data, and for 24 hours of data in bith winter and summer:<br>
+For each profiler data, and for 24 hours of data in both winter and summer:<br>
 A. Compare the number of dives per day of the shallow profiler vs deep profiler.<br>
 B. Where is the maximum value of ssp in each season? Explain why the max ssp should be there?<br>
 C. Compare the ssp profile in day and night of all profilers, explain what you find.<br>
