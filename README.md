@@ -8,14 +8,14 @@ https://colab.research.google.com/drive/14veYir-z3Qyseabx0oGtFSxgaunj8RQ0
 
 
 The purpose of this project was to gather data from the OOI website for the following CTD instruments:
-• Oregon Shelf Surface Piercing Profiler Mooring
-• Oregon Offshore Cabled Shallow Profiler Mooring
-• Oregon Offshore Cabled Deep Profiler Mooring
-• Oregon Slope Base Shallow Profiler
-• Oregon Slope Base Deep Profiler
-• Axial Base Shallow Profiler
-• Axial Base Deep Profiler 
-
+• Oregon Shelf Surface Piercing Profiler Mooring<br>
+• Oregon Offshore Cabled Shallow Profiler Mooring<br>
+• Oregon Offshore Cabled Deep Profiler Mooring<br>
+• Oregon Slope Base Shallow Profiler<br>
+• Oregon Slope Base Deep Profiler<br>
+• Axial Base Shallow Profiler<br>
+• Axial Base Deep Profiler <br>
+<br>
 As well as answer the following questions:
 " 
 For each profiler data, and for 24 hours of data in bith winter and summer:
