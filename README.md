@@ -24,6 +24,9 @@ A. Compare the number of dives per day of the shallow profiler vs deep profiler.
 There are about 10 dives for each shallow profiler, and 3 dives for each deep profiler.<br>
 <br>
 B. Where is the maximum value of ssp in each season? Explain why the max ssp should be there?<br>
+<br>
+Fo each season the maximum ssp appears to be at a lower depth in winter, than in summer<br>
+<br>
 C. Compare the ssp profile in day and night of all profilers, explain what you find.<br>
 D. Compare the ssp profile in summer and winter of all profilers, explain what you find.<br>
 E. Compare the average ssp profiles of all profilers recorded at the same day in winter and summer.<br>
