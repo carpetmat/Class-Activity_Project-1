@@ -6,6 +6,7 @@ https://github.com/carpetmat/Class-Activity_Project-1/blob/master/README.md
 Colab link (Just in case of issues uploading to github):
 https://colab.research.google.com/drive/14veYir-z3Qyseabx0oGtFSxgaunj8RQ0
 
+# I am afraid I was still unable to finish my report. But additional information was aquired in the code
 
 The purpose of this project was to gather data from the OOI website for the following CTD instruments:<br>
 • Oregon Shelf Surface Piercing Profiler Mooring<br>
